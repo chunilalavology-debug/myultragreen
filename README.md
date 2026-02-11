@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![UltraGreen Logo](https://myultragreen.com/wp-content/uploads/2024/04/logo-main.png)
+<div style="background: linear-gradient(135deg, #e8f0e6 0%, #f0f5ee 100%); padding: 20px 32px; border-radius: 12px; display: inline-block; margin: 0 auto; border: 1px solid #c8e6c9;">
+<img src="https://myultragreen.com/wp-content/uploads/2024/04/logo-main.png" alt="UltraGreen Logo" width="220" />
+</div>
 
 ### Hero — Conway Landing Page
 
