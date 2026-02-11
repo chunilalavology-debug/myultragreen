@@ -8,7 +8,7 @@
 
 ### Hero — Conway Landing Page
 
-![Hero section](images/hero.png)
+<img src="https://raw.githubusercontent.com/chunilalavology-debug/myultragreen/main/images/hero.png" alt="Hero section - Conway Landing Page" width="800" />
 
 **Professional Lawn Care in Conway, AR**
 
